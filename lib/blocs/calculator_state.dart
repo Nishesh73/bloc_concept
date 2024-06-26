@@ -3,7 +3,7 @@ abstract class CalculaorState{
 
 }
 class CalculatorInitialState extends CalculaorState{
-  //starting point of calculator bloc , starting point of bloct
+  //starting point of calculator bloc , starting point of bloc
 
 
 }
